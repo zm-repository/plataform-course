@@ -82,6 +82,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 <img src="https://media.giphy.com/media/EvbtydWoXPRyH7RB0d/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
+<img src="https://media.giphy.com/media/QXkENyf9THg7BpZwk0/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
+
 
 
 
