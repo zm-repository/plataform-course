@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # frontend-cursos-online
 
-<img src="https://media.giphy.com/media/CGW5yqOMegbYLtViiY/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://media.giphy.com/media/CGW5yqOMegbYLtViiY/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 
